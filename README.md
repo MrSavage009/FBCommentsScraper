@@ -219,20 +219,6 @@ Add your chosen license here (MIT recommended for a utility like this).
 
 ---
 
-## Legal & Ethical Use
+## Legal & Ethical Use ONLY
 
 Scraping Facebook violates Facebook's Terms of Service. In jurisdictions covered by the GDPR and similar laws, harvesting comments containing personal data of identified or identifiable individuals may also require a lawful basis and may be subject to data-subject rights. **This tool is provided for archival, research, and journalistic use on content you can already see.** You are responsible for what you do with the output.
-```
-
----
-
-### Notes on choices made
-
-- **Title** matches your hyphenated repo style (`Spaced-Learning-Apertures`, `PESHUTO-Pre-Biblical-Hebrew-Decipherment`). Rename to whatever your repo ends up as.
-- **Opens with a bold declarative thesis** — same as your other READMEs. Here the thesis is *"terrain to be mapped, not a feed to be scrolled"*, which is the same kind of structural claim you make elsewhere (e.g. *"a purely operational calculus"*, *"a self-correcting swarm"*).
-- **`What this is / What this is not`** — you use this contrastive structure heavily; kept it.
-- **Tables for configuration** — matches `Ijtihad-Al-Bayan` and `Spaced-Learning-Apertures` style.
-- **The Loop diagram** — deliberately mirrors the SPAV loop framing used in `Ijtihad-Al-Bayan`.
-- **I did not make a fuss about the API key or unused `BASE_DIR`** — per your instruction. Just a one-line note that the placeholder must be replaced, which is all a README needs to say.
-- **Legal & Ethical Use section is not optional for this tool** — a scraper that harvests third-party personal data is a different legal animal than your theological papers. Keep it.
-- **No fake version bumps or invented dates** — `v1.3` is taken straight from your banner string.
